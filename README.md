@@ -8,4 +8,6 @@ math-based program
 Graph visualisation using matplotlib.pyplot
 NumPy calculations
 ## How to run
-python main.py
+```bash
+pip install numpy matplotlib
+python ellipse.py
